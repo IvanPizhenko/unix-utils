@@ -1,2 +1,2 @@
 # unix-utils
-Collection of homegrow Unix/Linux utilities
+Collection of homegrown Unix/Linux utilities
